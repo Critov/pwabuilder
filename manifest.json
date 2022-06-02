@@ -1,11 +1,12 @@
 {
   "background_color": "#ffffff",
   "dir": "ltr",
+  "lang": "pt-BR",
   "display": "standalone",
-  "name": "critov.github",
+  "name": "PWA Builder",
   "orientation": "any",
   "scope": "/",
-  "short_name": "critov.github",
-  "start_url": "/",
+  "short_name": "PWAB",
+  "start_url": "/index.html",
   "theme_color": "#ffffff"
 }
